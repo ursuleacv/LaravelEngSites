@@ -1,0 +1,1 @@
+<?php header( 'Location: http://english.aws.af.cm/public/sites' ); ?>
